@@ -1,0 +1,32 @@
+:root{
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+
+ body{
+background-color: black;
+color: white;
+ }
+
+
+ section{
+  min-height: 100vh;
+  height: auto;
+ }
+
+ a{
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.8;
+ }
+
+ a:hover{
+  opacity: 1.0;
+ }
