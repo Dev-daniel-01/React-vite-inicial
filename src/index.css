@@ -11,12 +11,14 @@
 
 
  body{
-background-color: black;
-color: white;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
  }
 
 
  section{
+  padding-top: 2.5vw;
+  padding-left: 2vh;
   min-height: 100vh;
   height: auto;
  }

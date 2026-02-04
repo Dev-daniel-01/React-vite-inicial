@@ -6,7 +6,6 @@ import {Btn} from './components/btn'
 import {Menu} from './components/menu'
 
 function App() {
-  // const [count, setCount] = useState(0)
 
   return (
     <>
@@ -14,7 +13,7 @@ function App() {
    <main>
     <section id='s1'>primeira
       <br />
-      <Btn text='Pra braxo' func='#s2'/>
+      
     </section>
     <section id='s2'>segunda
       <br />

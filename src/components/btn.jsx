@@ -5,6 +5,5 @@ export const Btn = ({text, func}) =>{
         <button onClick={() => window.location.href=func}>
             {text}
         </button>
-        
     )
 }
